@@ -1,3 +1,7 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+out/
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
